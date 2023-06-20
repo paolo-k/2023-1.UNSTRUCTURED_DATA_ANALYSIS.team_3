@@ -1,0 +1,3 @@
+LontT5_test.py : Summarizing
+PatentSBERTa_test.py : PatentSBERTa에서 testing
+test_data.csv : summarzation, claim1 교호작용 testing data
