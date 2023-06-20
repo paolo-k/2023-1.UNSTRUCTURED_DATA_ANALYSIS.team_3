@@ -1,0 +1,14 @@
+bert_similarity.py : downstream task (sentence-to-sentence similarity, sts) fine-tunning module
+CPC_Class.py : CPC code object loading module
+sampling.py : Positive / Negative sampling module
+finetunnig.py : preprocessing & finetunning module
+evaluating_similarity.py : calculate sts for testing set
+evaluation_confusion_matrix.py : multi-label classification evaluating module
+
+
+Dataset Google drive url : 
+
+BERT_baseline.pt : fine-tunned model
+df_claim_train_1M_pre_duplicates_removed_663.csv : train set rawdata
+df_claim_test_1M_pre_duplicates_removed_663.csv : testing set rawdata
+Structured_CPC.pickle : CPC code object
