@@ -6,7 +6,7 @@ evaluating_similarity.py : calculate sts for testing set
 evaluation_confusion_matrix.py : multi-label classification evaluating module
 
 
-Dataset Google drive url : 
+Dataset Google drive url : https://drive.google.com/drive/folders/1bnodVQ_49bWfUC5c5t2RzeoelqvqrtIA?usp=sharing
 
 BERT_baseline.pt : fine-tunned model
 df_claim_train_1M_pre_duplicates_removed_663.csv : train set rawdata
